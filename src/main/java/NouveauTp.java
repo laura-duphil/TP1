@@ -14,4 +14,6 @@ public class NouveauTp {
     //Oui elle dit la vérité étant donné que c'est effectivement le cas.
     
     //il va il y avoir un pb
+    
+    // C'est bon on a resolu tout les conflits ahahahahah
 }
